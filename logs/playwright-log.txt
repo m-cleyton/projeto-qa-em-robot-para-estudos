@@ -1,0 +1,60 @@
+{"level":30,"time":"2025-08-20T16:51:24.938Z","pid":38752,"hostname":"PTDVTL2694","msg":"Listening on 127.0.0.1:60268"}
+(node:38752) DeprecationWarning: Calling start() is no longer necessary. It can be safely omitted.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":"2025-08-20T16:51:25.364Z","pid":38752,"hostname":"PTDVTL2694","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2025-08-20T16:51:25.793Z","pid":38752,"hostname":"PTDVTL2694","msg":"Adding browser to stack: chromium, version: 139.0.7258.5"}
+{"level":30,"time":"2025-08-20T16:51:25.794Z","pid":38752,"hostname":"PTDVTL2694","msg":"End of node method newBrowser"}
+{"level":30,"time":"2025-08-20T16:51:25.794Z","pid":38752,"hostname":"PTDVTL2694","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2025-08-20T16:51:25.798Z","pid":38752,"hostname":"PTDVTL2694","msg":"Start of node method newPage"}
+{"level":30,"time":"2025-08-20T16:51:25.798Z","pid":38752,"hostname":"PTDVTL2694","msg":"currentBrowser: {\"name\":\"chromium\",\"browser\":{\"_type\":\"Browser\",\"_guid\":\"browser@754fc8d85f173f8a7398f844497ce704\"},\"headless\":false,\"_contextStack\":[],\"id\":\"browser=c1419fc3-52d8-479e-bc54-d3cab7311691\"}"}
+{"level":30,"time":"2025-08-20T16:51:25.808Z","pid":38752,"hostname":"PTDVTL2694","msg":"Setting default timeout for context context=d779d4fc-22de-4187-9c29-c79fb417cf2b to 10000"}
+{"level":30,"time":"2025-08-20T16:51:25.808Z","pid":38752,"hostname":"PTDVTL2694","msg":"Changed active context: context=d779d4fc-22de-4187-9c29-c79fb417cf2b"}
+{"level":30,"time":"2025-08-20T16:51:26.143Z","pid":38752,"hostname":"PTDVTL2694","msg":"Video path: undefined"}
+{"level":30,"time":"2025-08-20T16:51:26.143Z","pid":38752,"hostname":"PTDVTL2694","msg":"Changed active page"}
+{"level":30,"time":"2025-08-20T16:51:27.269Z","pid":38752,"hostname":"PTDVTL2694","msg":"End of node method newPage"}
+{"level":30,"time":"2025-08-20T16:51:27.276Z","pid":38752,"hostname":"PTDVTL2694","msg":"Start of node method goTo"}
+{"level":30,"time":"2025-08-20T16:51:27.320Z","pid":38752,"hostname":"PTDVTL2694","msg":"End of node method goTo"}
+{"level":30,"time":"2025-08-20T16:51:27.325Z","pid":38752,"hostname":"PTDVTL2694","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-08-20T16:51:27.325Z","pid":38752,"hostname":"PTDVTL2694","msg":"Strict mode is enabled, find Locator with xpath=//h1 in page."}
+{"level":30,"time":"2025-08-20T16:51:27.353Z","pid":38752,"hostname":"PTDVTL2694","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-08-20T16:51:27.356Z","pid":38752,"hostname":"PTDVTL2694","msg":"Start of node method getText"}
+{"level":30,"time":"2025-08-20T16:51:27.356Z","pid":38752,"hostname":"PTDVTL2694","msg":"Strict mode is enabled, find Locator with css=h1 in page."}
+{"level":30,"time":"2025-08-20T16:51:27.379Z","pid":38752,"hostname":"PTDVTL2694","msg":"Retrieved text for element css=h1 containing Faça seu cadastro"}
+{"level":30,"time":"2025-08-20T16:51:27.379Z","pid":38752,"hostname":"PTDVTL2694","msg":"End of node method getText"}
+{"level":30,"time":"2025-08-20T16:51:27.383Z","pid":38752,"hostname":"PTDVTL2694","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-08-20T16:51:27.383Z","pid":38752,"hostname":"PTDVTL2694","msg":"Strict mode is enabled, find Locator with id=name in page."}
+{"level":30,"time":"2025-08-20T16:51:27.396Z","pid":38752,"hostname":"PTDVTL2694","msg":"End of node method fillText"}
+{"level":30,"time":"2025-08-20T16:51:27.400Z","pid":38752,"hostname":"PTDVTL2694","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-08-20T16:51:27.400Z","pid":38752,"hostname":"PTDVTL2694","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2025-08-20T16:51:27.414Z","pid":38752,"hostname":"PTDVTL2694","msg":"End of node method fillText"}
+{"level":30,"time":"2025-08-20T16:51:27.419Z","pid":38752,"hostname":"PTDVTL2694","msg":"Start of node method fillText"}
+{"level":30,"time":"2025-08-20T16:51:27.419Z","pid":38752,"hostname":"PTDVTL2694","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2025-08-20T16:51:27.429Z","pid":38752,"hostname":"PTDVTL2694","msg":"End of node method fillText"}
+{"level":30,"time":"2025-08-20T16:51:27.433Z","pid":38752,"hostname":"PTDVTL2694","msg":"Start of node method click"}
+{"level":30,"time":"2025-08-20T16:51:27.433Z","pid":38752,"hostname":"PTDVTL2694","msg":"Strict mode is enabled, find Locator with id=buttonSignup in page."}
+{"level":30,"time":"2025-08-20T16:51:27.490Z","pid":38752,"hostname":"PTDVTL2694","msg":"End of node method click"}
+{"level":30,"time":"2025-08-20T16:51:27.494Z","pid":38752,"hostname":"PTDVTL2694","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-08-20T16:51:27.494Z","pid":38752,"hostname":"PTDVTL2694","msg":"Strict mode is enabled, find Locator with css=.notice p in page."}
+{"level":30,"time":"2025-08-20T16:51:28.358Z","pid":38752,"hostname":"PTDVTL2694","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-08-20T16:51:28.365Z","pid":38752,"hostname":"PTDVTL2694","msg":"Start of node method getText"}
+{"level":30,"time":"2025-08-20T16:51:28.365Z","pid":38752,"hostname":"PTDVTL2694","msg":"Strict mode is enabled, find Locator with css=.notice p in page."}
+{"level":30,"time":"2025-08-20T16:51:28.382Z","pid":38752,"hostname":"PTDVTL2694","msg":"Retrieved text for element css=.notice p containing Oops! Já existe uma conta com o e-mail informado."}
+{"level":30,"time":"2025-08-20T16:51:28.382Z","pid":38752,"hostname":"PTDVTL2694","msg":"End of node method getText"}
+{"level":30,"time":"2025-08-20T16:51:28.388Z","pid":38752,"hostname":"PTDVTL2694","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-08-20T16:51:28.390Z","pid":38752,"hostname":"PTDVTL2694","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-08-20T16:51:28.392Z","pid":38752,"hostname":"PTDVTL2694","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-08-20T16:51:28.393Z","pid":38752,"hostname":"PTDVTL2694","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-08-20T16:51:28.395Z","pid":38752,"hostname":"PTDVTL2694","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-08-20T16:51:28.397Z","pid":38752,"hostname":"PTDVTL2694","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-08-20T16:51:28.399Z","pid":38752,"hostname":"PTDVTL2694","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-08-20T16:51:28.401Z","pid":38752,"hostname":"PTDVTL2694","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-08-20T16:51:28.404Z","pid":38752,"hostname":"PTDVTL2694","msg":"Changed active context: context=d779d4fc-22de-4187-9c29-c79fb417cf2b"}
+{"level":30,"time":"2025-08-20T16:51:28.404Z","pid":38752,"hostname":"PTDVTL2694","msg":"Changing current active page: page=dcd3a810-9360-4ed4-bb5d-7f90f13b2c9e"}
+{"level":30,"time":"2025-08-20T16:51:28.404Z","pid":38752,"hostname":"PTDVTL2694","msg":"Changed active page"}
+{"level":30,"time":"2025-08-20T16:51:28.408Z","pid":38752,"hostname":"PTDVTL2694","msg":"Start of node method closeContext"}
+{"level":30,"time":"2025-08-20T16:51:28.423Z","pid":38752,"hostname":"PTDVTL2694","msg":"Removed page=5f9b1a14-6a15-4b81-977e-fcdaec63ae01 from context=d779d4fc-22de-4187-9c29-c79fb417cf2b page stack"}
+{"level":30,"time":"2025-08-20T16:51:28.454Z","pid":38752,"hostname":"PTDVTL2694","msg":"End of node method closeContext"}
+{"level":30,"time":"2025-08-20T16:51:28.463Z","pid":38752,"hostname":"PTDVTL2694","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-08-20T16:51:28.463Z","pid":38752,"hostname":"PTDVTL2694","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-08-20T16:51:28.575Z","pid":38752,"hostname":"PTDVTL2694","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2025-08-20T16:51:28.811Z","pid":38752,"hostname":"PTDVTL2694","msg":"End of node method closeAllBrowsers"}
